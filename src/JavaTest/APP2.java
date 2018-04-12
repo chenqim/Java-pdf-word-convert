@@ -1,3 +1,5 @@
+package JavaTest;
+
 import java.util.Scanner;
 
 public class APP2 {

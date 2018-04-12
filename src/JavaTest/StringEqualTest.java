@@ -1,3 +1,5 @@
+package JavaTest;
+
 public class StringEqualTest {
 
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package JavaTest;
 
 public class Pai {
 	public static void main(String[] args) {
